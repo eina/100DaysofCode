@@ -1,12 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 4: Jan 19th, Thursday
+
+**Today's Progress**: Daily CSS Images Day 2
+
+**Thoughts**: I wanted to do something more complicated + animate it but didn't end up having enough time to do it :'(. It's okay, I quite like how this elephant guy turned out. I'm really proud of how I managed to make the folded in look for the trunk too. CSS is cool.
+
+**Link(s) to work**: [Day 2: Elephant](http://bit.ly/csselephant)
+
+
 ### Day 3: Jan 18th, Wednesday
 
 **Today's Progress**: Participated in Day 1 of Daily CSS Images!
 
 **Thoughts**: Messier than I would've liked, I should stop drawing with CSS so late at night. I also want to learn how to do 1-div CSS drawings.
 
-**Link(s) to work**: [Day 1: Polar Bear Cub on CodePen](http://codepen.io/thelittleblacksmith/pen/apBvKL)
+**Link(s) to work**: [Day 1: Polar Bear Cub on CodePen](http://bit.ly/csspolarbear)
 
 
 ### Day 2: Jan 17th, Tuesday
