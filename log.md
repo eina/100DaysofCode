@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: Jan 20th, Friday
+
+**Today's Progress**: Daily CSS Images Day 3 
+
+**Thoughts**: Today I learned more about stacking orders with z-index, especially when you use transform: rotate. Took a bit of my time but [this Stack Overflow answer](http://stackoverflow.com/questions/20851452/z-index-is-canceled-by-setting-transformrotate) was really helpful with understanding that. Just goes to show you that when you think you understand something completely, you probably missed something. 
+
+**Link(s) to work**: [Day 3: Beaver](http://bit.ly/cssbeaver)
+
 ### Day 4: Jan 19th, Thursday
 
 **Today's Progress**: Daily CSS Images Day 2
@@ -7,7 +15,6 @@
 **Thoughts**: I wanted to do something more complicated + animate it but didn't end up having enough time to do it :'(. It's okay, I quite like how this elephant guy turned out. I'm really proud of how I managed to make the folded in look for the trunk too. CSS is cool.
 
 **Link(s) to work**: [Day 2: Elephant](http://bit.ly/csselephant)
-
 
 ### Day 3: Jan 18th, Wednesday
 
