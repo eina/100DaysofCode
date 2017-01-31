@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: Jan 30th, Monday
+**Today's Progress**: Started Pomodoro Timer
+
+**Thoughts**: ... I hope it's cool that I'm just continuing from 10 days ago. I had to take a little break to do other personal things. Life happens ¯\_(ツ)_/¯. Anyway! I watched Simon Allardice's intro to JS videos on Lynda and was inspired to start this FCC project. 
+
+Decided I have to use the Date object instead though. 
+
+**Link(s) to work**: [Day 6: FCC Pomodoro Repo](https://github.com/thelittleblacksmith/fcc-pomodoro)
+
 ### Day 5: Jan 20th, Friday
 
 **Today's Progress**: Daily CSS Images Day 3 
