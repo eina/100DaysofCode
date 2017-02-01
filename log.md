@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 6: Jan 31st, Tuesday
+**Today's Progress**: Tweaked portfolio
+
+**Thoughts**: I noticed that my portfolio needed some tweaking on mobile so made a list and implemented them!
+
+**Link(s) to work**: [Day 7: Changes Made To Portfolio on GitHub](https://github.com/thelittleblacksmith?tab=overview&from=2017-01-31)
+
 ### Day 6: Jan 30th, Monday
 **Today's Progress**: Started Pomodoro Timer
 
