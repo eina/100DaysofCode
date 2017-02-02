@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 6: Jan 31st, Tuesday
+### Day 8: Jan 31st, Tuesday
+**Today's Progress**: Finished most of the pomodoro clock's functionality!
+
+**Thoughts**: Used the Date() object for my pomodoro clock and the basic functionalities (start/pause/reset) are finished. It's fairly simple right now, but I have decided that I don't want to make the timer switch automatically before 
+
+**Link(s) to work**: [Day 7: Changes Made To Portfolio on GitHub](https://github.com/thelittleblacksmith?tab=overview&from=2017-01-31)
+
+### Day 7: Jan 31st, Tuesday
 **Today's Progress**: Tweaked portfolio
 
 **Thoughts**: I noticed that my portfolio needed some tweaking on mobile so made a list and implemented them!
