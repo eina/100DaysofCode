@@ -1,11 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 8: Jan 31st, Tuesday
+### Day 10: Feb 2nd, Thursday
+**Today's Progress**: Finished all the pomodoro functionalities + styled it! 
+
+**Thoughts**: I coded a lot today, whew. It was really interesting learning about how to detect the changes with checkbox via JavaScript. I lost the Stack Overflow answer that was really helpful, but it was _event.target_ that finally let me check whether the checkbox was checked or not.
+
+Also, I made a toggle switch thingie for the first time today. It's interesting, cool that it's a checkbox. 
+
+I also used the Audio api for the first time today, it was easier than I expected! 
+
+**Link(s) to work**: [Day 9: Pomodoro Project Commit History](https://github.com/thelittleblacksmith/fcc-pomodoro/commits/master)
+
+### Day 9: Feb 1st, Wednesday
 **Today's Progress**: Finished most of the pomodoro clock's functionality!
 
 **Thoughts**: Used the Date() object for my pomodoro clock and the basic functionalities (start/pause/reset) are finished. It's fairly simple right now, but I have decided that I don't want to make the timer switch automatically before 
 
-**Link(s) to work**: [Day 7: Changes Made To Portfolio on GitHub](https://github.com/thelittleblacksmith?tab=overview&from=2017-01-31)
+**Link(s) to work**: [Day 8: Pomodoro Project Commit History](https://github.com/thelittleblacksmith/fcc-pomodoro/commits/master)
 
 ### Day 7: Jan 31st, Tuesday
 **Today's Progress**: Tweaked portfolio
